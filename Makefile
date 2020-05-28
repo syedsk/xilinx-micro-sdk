@@ -5,8 +5,6 @@ export TOP_DIR = $(shell pwd)
 #export ARCH = arm
 #BOARD_NAME := zc702
 
-# This is test change for demo 
-# This is demo 2
 # for zynqmp ultrascale
 BOARD_NAME := zcu102
 export ARCH = arm64
